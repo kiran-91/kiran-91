@@ -1,17 +1,15 @@
 # Data scientist, problem solver, and professional Googler
 
 <h1 align="center">Hi 👋, I'm Kiran Deshpande</h1>
-<h3 align="center">Data Scientist | AI/ML Enthusiast | Teaching machines to learn, but not to replace me | Predicting futures, except my own (still figuring that out) | Powered by Chai</h3>
+<h3 align="center">Data Scientist | AI/ML Enthusiast🤖 | Teaching machines to learn, but not to replace me🙄 | Predicting futures, except my own (still figuring that out) | Powered by Chai☕</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran-91&label=Profile%20views&color=0e75b6&style=flat" alt="kiran-91" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiran-91" alt="kiran-91" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kiran___1" target="blank"><img src="https://img.shields.io/twitter/follow/kiran___1?logo=twitter&style=for-the-badge" alt="kiran___1" /></a> </p>
 
 - 📫 How to reach me **deshpandekiran007kd@gmail.com**
 
-- ⚡ Fun fact **Love Geopolitics**
+- ⚡ Fun fact **I Love Geopolitics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
