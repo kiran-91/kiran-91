@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **deshpandekiran007kd@gmail.com**
 
-- ⚡ Fun fact **I Love Geopolitics hey this**
+- ⚡ Fun fact **I Love Geopolitics hey**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
