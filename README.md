@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on projects related to **HuggingFace and LangChain**
 
+- 🧑🏻‍💻 I'm currently learning **MLOps** 
+
 - 📫 How to reach me **deshpandekiran007kd@gmail.com**
 
 - ⚡ Fun fact **I Love Geopolitics**
