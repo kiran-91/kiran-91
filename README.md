@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on projects related to **HuggingFace and LangChain**
 
-- 🧑🏻‍💻 I'm currently learning **MLOps** 
+- 🧑🏻‍💻 I'm currently learning **MLOps and Generative AI** 
 
 - 📫 How to reach me **deshpandekiran007kd@gmail.com**
 
