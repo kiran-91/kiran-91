@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/kiran___1" target="blank"><img src="https://img.shields.io/twitter/follow/kiran___1?logo=twitter&style=for-the-badge" alt="kiran___1" /></a> </p>
 
-- 🔭 I’m currently working on projects related to **HuggingFace and LangChain**
+- 🔭 I’m currently working on projects related to **GenAI and MLops**
 
-- 🧑🏻‍💻 I'm currently learning **MLOps and Generative AI** 
+- 🧑🏻‍💻 I'm currently learning **MLOps** 
 
 - 📫 How to reach me **deshpandekiran007kd@gmail.com**
 
