@@ -9,7 +9,7 @@
 
 - 🧑🏻‍💻 I'm currently learning **MLOps** 
 
-- 📫 How to reach me **deshpandekiran007kd@gmail.com**
+- 📫 How to reach me **deshpandekiran24@gmail.com**
 
 - ⚡ Fun fact **I Love Geopolitics**
 
